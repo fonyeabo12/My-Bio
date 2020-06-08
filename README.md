@@ -1,4 +1,8 @@
 # My-Bio
+
+#Deployed
+LIVE: https://fonyeabo12.github.io/My-Bio/
+
 Contents
 
 -index.html file
