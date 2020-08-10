@@ -12,6 +12,17 @@ header {
     background-color: white;
 }
 
+
+
+nav {
+
+    float: right; 
+    padding-top: 30px;
+    padding-bottom: 20px;
+    
+
+}
+
 .wrapper {
 
     overflow: auto;
@@ -23,15 +34,6 @@ header {
 
 }
 
-
-nav {
-
-    float: right; 
-    padding-top: 30px;
-    padding-bottom: 20px;
-    
-
-}
 
 
 
